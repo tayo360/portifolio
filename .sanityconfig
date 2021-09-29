@@ -1,0 +1,13 @@
+{
+  "extensions": {
+    "endpoints": {
+      "Your Sanity GROQ Engine Endpoint": {
+        "url": "https://tayo360portifolioi.sanity.studio/desk/post",
+        "headers": {
+          "projectId": "zbjrjvm5",
+          "dataset": "post"
+        }
+      }
+    }
+  }
+}
