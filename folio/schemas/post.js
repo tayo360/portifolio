@@ -50,6 +50,11 @@ export default {
       name: "body",
       title: "Body",
       type: "blockContent",
+      type: "image",
+      options: {
+        hotspot: true,
+      },   
+   
     },
   ],
 
