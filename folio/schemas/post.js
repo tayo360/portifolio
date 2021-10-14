@@ -1,4 +1,5 @@
 export default {
+  
   name: "post",
   title: "Post",
   type: "document",
@@ -49,9 +50,10 @@ export default {
     {
       name: "body",
       title: "Body",
-      type: "blockContent",   
+      type: "blockContent",
     },
   ],
+
   preview: {
     select: {
       title: "title",
